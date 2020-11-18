@@ -1,0 +1,20 @@
+colocar uma foto de fundo
+
+colocar um titulo grande(HTML E CSS)
+
+subtitulo do curso em negrito
+
+letra com cor branca e que 
+combine com a foto de fundo
+
+centralizar o conteudo
+
+inserir um link saiba mais
+
+letra branca com borda
+
+espaço entre as linhas 
+
+texto da data de inico em negrito e o fundo branco
+
+inserir favicon no site
